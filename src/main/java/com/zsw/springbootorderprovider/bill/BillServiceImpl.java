@@ -1,6 +1,6 @@
 package com.zsw.springbootorderprovider.bill;
 
-import com.zsw.example.BillService;
+import com.zsw.example.springbootrpcorderapi.rpc.BillService;
 import com.zsw.springbootorderprovider.rpc.annotation.ZswRemoteService;
 
 /**
